@@ -13,7 +13,7 @@ This course continues to examine the core theories of game design as they relate
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. All readings will be linked from this page, in the [Readings section](#Readings). Readings should be completed *before* the class in which the topic is introduced, so that we can use class time to focus on application of the concepts to your projects.
 
-All course materials and example code will be distributed via Github, and you will also be using Git and Github to manage and submit your group project files. 
+All course materials and example code will be distributed via Github, and you will also be using Git and Github to manage and submit your group project files.  
 
 We will be using [Slack](https://lawleygdd2.slack.com/), a group communication tool, for announcements, discussions, and Q&A about class activities and projects. Both of these tools will be discussed in week 1.
 
@@ -36,7 +36,7 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 ### Project Deliverables
 * **The Prototype** - I do not expect you will succeed in making a great game. I do expect your rules and mechanics to be clear. Basic functionality should work. (It is possible to meet the a win/end condition, players know how they are progressing, rules are clear). (15% per project)
-* **One Page Design Doc** - Look and feel is clear, game objective is clear. (5% per project)
+* **[One Page Design Doc](guidelines-rubrics/design-docs.md)** - Look and feel is clear, game objective is clear. (5% per project)
 * **Post Mortem Writeup** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
 
 ### Peer Evaluation
