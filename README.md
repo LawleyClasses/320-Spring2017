@@ -20,14 +20,23 @@ We will be using [Slack](https://lawleygdd2.slack.com/), a group communication t
 MyCourses will *only* be used for grading, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
 
 ## Course Organization
-The course will be organized into three project cycles. In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups will not. Each game we will mix up the groups and start a new project.
+The course will be organized into three project cycles. In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups and the game requirements/constraints will not. Each game we will mix up the groups and start a new project.
 
 ## Grading
-Your final grade will be based on your three group projects (25% per project), peer evaluations (5% per project), and your overall participation in both class discussions and the project tools (Github and Slack) (10% overall)
+Your final grade will be based on your three group projects (25% per project), peer evaluations (5% per project), and your overall participation in both class discussions and the project tools (Github and Slack) (10% overall).
+
+I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("this is the wrong field of study for you"), based on your overall average for the class. Here's the breakdown:
+
+| Class Average | Grade |
+| ------------- | ----- |
+| 83%-100%	| A |
+| 65%-82.9%	| C |
+| 0-65%	| F |
+
 
 ### Project Deliverables
 * **The Prototype** - I do not expect you will succeed in making a great game. I do expect your rules and mechanics to be clear. Basic functionality should work. (It is possible to meet the a win/end condition, players know how they are progressing, rules are clear). (15% per project)
-* **One Page Design Doc** - Look and Feel is clear, game objective is clear. (5% per project)
+* **One Page Design Doc** - Look and feel is clear, game objective is clear. (5% per project)
 * **Post Mortem Writeup** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
 
 ### Peer Evaluation
@@ -37,7 +46,7 @@ Because this is a team-based course, it is important that you work well together
 Because class time will be used not just for group work, but also for me to provide your groups with ongoing feedback, attendance is critical. It is also important that you participate in group discussions in the class Slack, and that you contribute to the materials in each of your projects' Github repositories.
 	
 ## Readings
-Weekly readings and resources will go here.
+Week 1:
 
 ## Additional Policies
 
