@@ -18,10 +18,10 @@ All course materials will be distributed via Github, and you will also be using 
 MyCourses will *only* be used for grading and for distributing copyrighted readings. There will be links in myCourses pointing you back to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
 
 ## Course Organization
-The course will be organized into three project cycles (a 4-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups and the game requirements/constraints will not. Each game we will mix up the groups and start a new project. 
+The course will be organized into three project cycles (a 4.5-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups and the game requirements/constraints will not. For each cycle we will mix up the groups and start a new project. 
 
 ## Grading
-Your final grade will be based on your three group projects (25% per project), peer evaluations (5% per project), and your overall participation in both in-class discussions and Slack) (10% overall).
+Your final grade will be based on your three game projects (25% per project), peer evaluations (5% per project), and your overall participation in both in-class discussions and Slack) (10% overall).
 
 I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("this is the wrong field of study for you"), based on your overall average for the class. Here's the breakdown:
 
@@ -36,7 +36,7 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 *  **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning for each project. While you can use a standard design document methodology (which you probably did in your GDD1 class), I recommend using a combination of a simple concept document and a [design log approach](http://www.lostgarden.com/2011/05/game-design-logs.html) instead. We will discuss this during the first week of class. (5% per project)
 * **[The Prototype](guidelines-rubics/prototype.md)** - I do not expect that you will succeed in making a great game. I do expect that your rules and mechanics will be clear, and that the game be functional and playable. (10% per project)
-* **[One Page Design Summary](guidelines-rubrics/design-docs.md)** - Your group will create and present a [one-page design](http://www.gdcvault.com/play/1012356/One-Page) summary document that encapsulates both the look and feel of your game and its basic functionality. (5% per project)
+* **[One Page Design Summary](guidelines-rubrics/one-page-design.md)** - Your group will create and present a one-page design summary document that encapsulates both the look and feel of your game and its basic functionality. (5% per project)
 * **[Post Mortem Writeup](guidelines-rubrics/post-mortem.md)** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
 * **[Peer Evaluation](guidelines-rubrics/peer-eval.md)** = Because this is a team-based course, it is important that you work well together. Additionally, not everyone plays well with others and there are consequences for that: a letter grade's worth. I will ask you to complete an information peer evaluation at the midpoint of each project so that I have an opportunity to provide feedback before the project cycle ends. Only the end-of-project peer evaluation will count towards your grade. (5% per project)
 
