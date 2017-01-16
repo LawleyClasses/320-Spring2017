@@ -11,19 +11,19 @@
 This course continues to examine the core theories of game design as they relate to the professional field. Beginning with a formalized pitch process, this course examines the design and development paradigm from story-boarding and pre-visualization through rapid iteration, refinement, and structured prototyping exercises to further examine the validity of a given design. Specific emphasis is placed on iterative prototyping models, and on methodologies for both informal and formal critique. This course also explores production techniques and life-cycle in the professional industry.
 
 ## Course Materials and Communication
-There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. All readings will be linked from this page, in the [Readings section](#Readings). Readings should be completed *before* the class in which the topic is introduced, so that we can use class time to focus on application of the concepts to your projects.
+There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. All readings will be listed on the [readings.md](readings.md) file here in Github. Most will be available on the open web, but a handful are copyrighted materials that will be uploaded to the content section of myCourses. Readings should be completed *before* the class in which the topic is introduced, so that we can use class time to focus on application of the concepts to your projects.
 
-All course materials and example code will be distributed via Github, and you will also be using Git and Github to manage and submit your group project files.  
+All course materials will be distributed via Github, and you will also be using Git and Github to manage and submit your group project files.  
 
 We will be using [Slack](https://lawleygdd2.slack.com/), a group communication tool, for announcements, discussions, and Q&A about class activities and projects. Both of these tools will be discussed in week 1.
 
-MyCourses will *only* be used for grading, not for distribution of materials or communication. There will be links in myCourses pointing you to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
+MyCourses will *only* be used for grading and for distributing copyrighted readings. There will be links in myCourses pointing you back to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
 
 ## Course Organization
-The course will be organized into three project cycles. In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups and the game requirements/constraints will not. Each game we will mix up the groups and start a new project.
+The course will be organized into three project cycles (a 4-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups and the game requirements/constraints will not. Each game we will mix up the groups and start a new project. 
 
 ## Grading
-Your final grade will be based on your three group projects (25% per project), peer evaluations (5% per project), and your overall participation in both class discussions and the project tools (Github and Slack) (10% overall).
+Your final grade will be based on your three group projects (25% per project), peer evaluations (5% per project), and your overall participation in both in-class discussions and Slack) (10% overall).
 
 I give only three possible final grades in this class. You'll receive a grade of A ("good work!"), C ("you passed, but your work was unimpressive"), or F ("this is the wrong field of study for you"), based on your overall average for the class. Here's the breakdown:
 
@@ -34,19 +34,53 @@ I give only three possible final grades in this class. You'll receive a grade of
 | 0-65%	| F |
 
 
-### Project Deliverables
-* **The Prototype** - I do not expect you will succeed in making a great game. I do expect your rules and mechanics to be clear. Basic functionality should work. (It is possible to meet the a win/end condition, players know how they are progressing, rules are clear). (15% per project)
-* **[One Page Design Doc](guidelines-rubrics/design-docs.md)** - Look and feel is clear, game objective is clear. (5% per project)
-* **Post Mortem Writeup** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
+## Project Deliverables
 
-### Peer Evaluation
-Because this is a team-based course, it is important that you work well together. Additionally, not everyone plays well with others and there are consequences for that: a letter grade's worth. I will ask you to complete an information peer evaluation at the midpoint of each project so that I have an opportunity to provide feedback before the project cycle ends. Only the end-of-project peer evaluation will count towards your grade. 
+*  **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning for each project. While you can use a standard design document methodology (which you probably did in your GDD1 class), I recommend using a combination of a simple concept document and a [design log approach](http://www.lostgarden.com/2011/05/game-design-logs.html) instead. We will discuss this during the first week of class. (5% per project)
+* **[The Prototype](guidelines-rubics/prototype.md)** - I do not expect that you will succeed in making a great game. I do expect that your rules and mechanics will be clear, and that the game be functional and playable. (10% per project)
+* **[One Page Design Summary](guidelines-rubrics/design-docs.md)** - Your group will create and present a [one-page design](http://www.gdcvault.com/play/1012356/One-Page) summary document that encapsulates both the look and feel of your game and its basic functionality. (5% per project)
+* **[Post Mortem Writeup](guidelines-rubrics/post-mortem.md)** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
+* **[Peer Evaluation](guidelines-rubrics/peer-eval.md)** = Because this is a team-based course, it is important that you work well together. Additionally, not everyone plays well with others and there are consequences for that: a letter grade's worth. I will ask you to complete an information peer evaluation at the midpoint of each project so that I have an opportunity to provide feedback before the project cycle ends. Only the end-of-project peer evaluation will count towards your grade. (5% per project)
 
-### Attendance & Participation
-Because class time will be used not just for group work, but also for me to provide your groups with ongoing feedback, attendance is critical. It is also important that you participate in group discussions in the class Slack, and that you contribute to the materials in each of your projects' Github repositories.
+## Attendance & Participation
+Because class time will be used not just for group work, but also for me to talk about key concepts and to provide your groups with ongoing feedback, attendance is critical. It is also important that you participate in group discussions in the class Slack, and that you contribute to the materials in each of your projects' Github repositories. I will be assessing this weekly. 
 	
-## Readings
-Week 1:
+## Class Schedule
+
+| Week | Day | Topic | Readings |
+| ---- | --- | ----- | -------- |
+| 1 | 1/24 | Overvew & Expectations, Slack, Github | [Readings](readings.md#tuesday-124) |
+|   | 1/26 | Teams and Roles, Planning, Documentation | [Readings](readings.md#thursday-126) |
+| 2 | 1/31 | Project 1 Start, Production Processes | [Readings](readings.md#tuesday-131) |
+|   | 2/2  | Production Tools | [Readings](readings.md#thursday-22) |
+| 3 | 2/7  | | |
+|   | 2/9  | | |
+| 4 | 2/14  | | |
+|   | 2/16  | | |
+| 5 | 2/21  | | |
+|   | 2/23  | | |
+| 6 | 2/28  | | |
+|   | 3/2  | | |
+| 7 | 3/7  | | |
+|   | 3/9  | | |
+| **SPRING BREAK** |  | | |
+| 8 | 3/21  | | |
+|   | 3/23  | | |
+| 9 | 3/28 | | |
+|   | 3/30  | | |
+| 10 | 4/4  | | |
+|   | 4/6  | | |
+| 11 | 4/11  | | |
+|   | 4/13  | | |
+| 12 | 4/18  | | |
+|   | 4/20  | | |
+| 13 | 4/25  | | |
+|   | 4/27  | | |
+| 14 | 5/2  | | |
+|   | 5/4 | | |
+| 15 | 5/9  | | |
+|   | 5/11 | | |
+|  Finals |  | | |
 
 ## Additional Policies
 
