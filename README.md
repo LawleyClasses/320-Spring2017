@@ -32,9 +32,21 @@ I give only three possible final grades in this class. You'll receive a grade of
 | 0-65%	| F |
 
 
-## Project Deliverables
+## Projects
 
-*  **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning for each project. While you can use a standard design document methodology (which you probably did in your GDD1 class), I recommend using a combination of a simple concept document and a [design log approach](http://www.lostgarden.com/2011/05/game-design-logs.html) instead. We will discuss this during the first week of class. (5% per project)
+### Project Cycles
+
+Playtests will take place on Tuesdays; by Thursday the team should have written up and reflected on the playtest feedback so that by the end of class Thursday you've clearly designated tasks for the next iteration. Peer evals will be done after all other deliverables have been submitted. 
+
+* Week 1: Ideation, Concept Document, Role Assignment
+* Week 2: First prototype developed
+* Week 3: Playtest & iterate
+* Week 4: Playtest & iterate
+* Week 5: Final tweaks and presentation of prototype, one-page design doc, and post mortem. 
+
+### Project Deliverables
+
+*  **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning and production process for each project. (5% per project)
 * **[The Prototype](guidelines-rubics/prototype.md)** - I do not expect that you will succeed in making a great game. I do expect that your rules and mechanics will be clear, and that the game be functional and playable. (10% per project)
 * **[One Page Design Summary](guidelines-rubrics/one-page-design.md)** - Your group will create and present a one-page design summary document that encapsulates both the look and feel of your game and its basic functionality. (5% per project)
 * **[Post Mortem Writeup](guidelines-rubrics/post-mortem.md)** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
@@ -56,7 +68,7 @@ Because class time will be used not just for group work, but also for me to talk
 | 4    | 2/14 | 1 | | |
 |      | 2/16 | 1 | | |
 | 5    | 2/21 | 1 | | |
-|      | 2/23 | End Cycle 1 | | |
+|      | 2/23 | End Cycle 1 | Presentations | |
 | 6    | 2/28 | Start Cycle 2 |  | |
 |      | 3/2  | 2 | | |
 | 7    | 3/7  | 2 | | |
@@ -68,7 +80,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 3/30 | 2 | | |
 | 10   | 4/4  | 2 | | |
 |      | 4/6  |End Cycle 2 | | |
-| 11   | 4/11 | Start Cycle 3 | | |
+| 11   | 4/11 | Start Cycle 3 | Presentations | |
 |      | 4/13 | 3 | | |
 | 12   | 4/18 | 3 | | |
 |      | 4/20 | 3 | | |
