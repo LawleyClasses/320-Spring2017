@@ -47,40 +47,40 @@ Because class time will be used not just for group work, but also for me to talk
 	
 ## Class Schedule
 
-| Week | Day | Topic | Readings |
-| ---- | --- | ----- | -------- |
-| 1 | 1/24 | Overvew & Expectations, Slack, Github | [Readings](readings.md#tuesday-124) |
-|   | 1/26 | Teams and Roles, Planning, Documentation | [Readings](readings.md#thursday-126) |
-| 2 | 1/31 | Project 1 Start, Production Processes | [Readings](readings.md#tuesday-131) |
-|   | 2/2  | Production Tools | [Readings](readings.md#thursday-22) |
-| 3 | 2/7  | | |
-|   | 2/9  | | |
-| 4 | 2/14  | | |
-|   | 2/16  | | |
-| 5 | 2/21  | | |
-|   | 2/23  | | |
-| 6 | 2/28  | | |
-|   | 3/2  | | |
-| 7 | 3/7  | | |
-|   | 3/9  | | |
-| **SPRING BREAK** |  | | |
-| 8 | 3/21  | | |
-|   | 3/23  | | |
-| 9 | 3/28 | | |
-|   | 3/30  | | |
-| 10 | 4/4  | | |
-|   | 4/6  | | |
-| 11 | 4/11  | | |
-|   | 4/13  | | |
-| 12 | 4/18  | | |
-|   | 4/20  | | |
-| 13 | 4/25  | | |
-|   | 4/27  | | |
-| 14 | 5/2  | | |
-|   | 5/4 | | |
-| 15 | 5/9  | | |
-|   | 5/11 | | |
-|  Finals |  | | |
+| Week | Day | Cycle | Topic | Readings |
+| ---- | --- | ----- | ----- | -------- |
+| 1    | 1/24 | 0 | Overvew & Expectations, Slack, Github | [Tuesday Readings](readings.md#tuesday-124) |
+|      | 1/26 | Start Cycle 1  | Teams and Roles, Planning, Documentation | [Thursday Readings](readings.md#thursday-126) |
+| 2    | 1/31 | 1 | Production Processes | [Tuesday Readings](readings.md#tuesday-131) |
+|      | 2/2  | 1 | Production Tools | [Thursday Readings](readings.md#thursday-22) |
+| 3    | 2/7  | 1 | | |
+|      | 2/9  | 1 | | |
+| 4    | 2/14 | 1 | | |
+|      | 2/16 | 1 | | |
+| 5    | 2/21 | 1 | | |
+|      | 2/23 | End Cycle 1 | | |
+| 6    | 2/28 | Start Cycle 2 |  | |
+|      | 3/2  | 2 | | |
+| 7    | 3/7  | 2 | | |
+|      | 3/9  | 2 | | |
+| **SPRING BREAK** | | | | |
+| 8    | 3/21 | 2 | | |
+|      | 3/23 | 2 | | |
+| 9    | 3/28 | 2 | | |
+|      | 3/30 | 2 | | |
+| 10   | 4/4  | 2 | | |
+|      | 4/6  |End Cycle 2 | | |
+| 11   | 4/11 | Start Cycle 3 | | |
+|      | 4/13 | 3 | | |
+| 12   | 4/18 | 3 | | |
+|      | 4/20 | 3 | | |
+| 13   | 4/25 | 3 | | |
+|      | 4/27 | 3 | | |
+| 14   | 5/2  | 3 | | |
+|      | 5/4  | 3 | | |
+| 15   | 5/9  | 3 | | |
+|      | 5/11 | 3 | | |
+|  Finals | TBD  | End Cycle 3 | | |
 
 ## Additional Policies
 
