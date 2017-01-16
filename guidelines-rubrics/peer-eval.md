@@ -1,3 +1,5 @@
 # Lawley GDD2: Peer Evaluations
 
-At the end of each project cycle, I will distribute a peer evaluation for you to complete for each of your team members, and a self evaluation for you to complete for yourself. 
+At the end of each project cycle, you will complete a peer evaluation assessing yourself and your team members. 
+
+Peer evaluation forms will become available on [the class peer evaluation site](https://peereval.rit.edu/public_view/course/638281) after the final project presentations of each cycle.
