@@ -16,7 +16,7 @@
 * [Raph Koster's Website: Typical Game Dev Teams](http://www.raphkoster.com/2007/11/02/typical-game-dev-teams/)
 * [Alistair Doulin: Building a Strong Indie Development Team](http://www.gamasutra.com/blogs/AlistairDoulin/20100107/86323/Building_A_Strong_Indie_Game_Development_Team.php)
 
-### Planning & Documentation
+#### Planning & Documentation
 * [Brainstorming Doesn't Work: Try This Technique Instead](https://www.fastcompany.com/3033567/agendas/brainstorming-doesnt-work-try-this-technique-instead)
 * [The Anatomy of a Design Document, Part 1: Documentation Guidelines for the Game Concept and Proposal](http://www.gamasutra.com/view/feature/131791/the_anatomy_of_a_design_document_.php)
 * [Lost Garden: Game Design Logs](http://www.lostgarden.com/2011/05/game-design-logs.html)
