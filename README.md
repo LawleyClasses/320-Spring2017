@@ -13,9 +13,7 @@ This course continues to examine the core theories of game design as they relate
 ## Course Materials and Communication
 There is no required textbook for the course, but there will be an assortment of handouts and online readings that you will receive over the course of the semester. All readings will be listed on the [readings.md](readings.md) file here in Github. Most will be available on the open web, but a handful are copyrighted materials that will be uploaded to the content section of myCourses. Readings should be completed *before* the class in which the topic is introduced, so that we can use class time to focus on application of the concepts to your projects.
 
-All course materials will be distributed via Github, and you will also be using Git and Github to manage and submit your group project files.  
-
-We will be using [Slack](https://lawleygdd2.slack.com/), a group communication tool, for announcements, discussions, and Q&A about class activities and projects. Both of these tools will be discussed in week 1.
+All course materials will be distributed via Github, and you will also be using Git and Github to manage and submit your group project files.  We will be using Slack, a group communication tool, for announcements, discussions, and Q&A about class activities and projects. Both of these tools will be discussed in week 1.
 
 MyCourses will *only* be used for grading and for distributing copyrighted readings. There will be links in myCourses pointing you back to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
 
