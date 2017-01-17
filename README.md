@@ -18,7 +18,7 @@ All course materials will be distributed via Github, and you will also be using 
 MyCourses will *only* be used for grading and for distributing copyrighted readings. There will be links in myCourses pointing you back to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
 
 ## Course Organization
-The course will be organized into three project cycles (a 4.5-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. The theme will be consistent through the semester, but the groups and the game requirements/constraints will not. For each cycle we will mix up the groups and start a new project. 
+The course will be organized into three project cycles (a 4.5-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. Groups will stay the same throughout the semester, but the requirements and constraints for each game cycle will change. 
 
 ## Grading
 Your final grade will be based on your three game projects (25% per project), peer evaluations (5% per project), and your overall participation in both in-class discussions and Slack) (10% overall).
