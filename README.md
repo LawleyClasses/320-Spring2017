@@ -61,7 +61,7 @@ Because class time will be used not just for group work, but also for me to talk
 | ---- | --- | ----- | ----- | -------- |
 | 1    | 1/24 | 0 | Overvew & Expectations, Slack, Github | [Tuesday Readings](readings.md#tuesday-124) |
 |      | 1/26 | Start Cycle 1  | Teams and Roles, Planning, Documentation | [Thursday Readings](readings.md#thursday-126) |
-| 2    | 1/31 | 1 | Production Processes | [Tuesday Readings](readings.md#tuesday-131) |
+| 2    | 1/31 | 1 | Production Processes, GCVM Presentation | [Tuesday Readings](readings.md#tuesday-131) |
 |      | 2/2  | 1 | Production Tools | [Thursday Readings](readings.md#thursday-22) |
 | 3    | 2/7  | 1 | | |
 |      | 2/9  | 1 | | |
@@ -79,8 +79,8 @@ Because class time will be used not just for group work, but also for me to talk
 | 9    | 3/28 | 2 | | |
 |      | 3/30 | 2 | | |
 | 10   | 4/4  | 2 | | |
-|      | 4/6  |End Cycle 2 | | |
-| 11   | 4/11 | Start Cycle 3 | Presentations | |
+|      | 4/6  |End Cycle 2 | Presentations | |
+| 11   | 4/11 | Start Cycle 3 | | |
 |      | 4/13 | 3 | | |
 | 12   | 4/18 | 3 | | |
 |      | 4/20 | 3 | | |
@@ -90,7 +90,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 5/4  | 3 | | |
 | 15   | 5/9  | 3 | | |
 |      | 5/11 | 3 | | |
-|  Finals | TBD  | End Cycle 3 | | |
+|  Finals | TBD  | End Cycle 3 | Presentations | |
 
 ## Additional Policies
 
