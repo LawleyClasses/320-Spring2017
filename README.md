@@ -4,7 +4,7 @@
 - Professor Elizabeth Lawley  
 - Office: GOL-2545
 - Email: Elizabeth.Lawley@rit.edu
-- Office hours: Tuesday/Thursday 1:15-3:15pm, or by appointment
+- Office hours: Tuesday/Thursday 10-11am and 2-3pm
 - Class meetings: Tuesday/Thursday 3:30-4:45pm, 1380 Orange Hall
 
 ## Course Description 
