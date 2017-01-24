@@ -38,6 +38,8 @@ I give only three possible final grades in this class. You'll receive a grade of
 
 ### Project Cycles
 
+This is new text.
+
 Playtests will take place on Tuesdays; by Thursday the team should have written up and reflected on the playtest feedback so that by the end of class Thursday you've clearly designated tasks for the next iteration. Peer evals will be done after all other deliverables have been submitted. 
 
 * Week 1: Ideation, Concept Document, Role Assignment
