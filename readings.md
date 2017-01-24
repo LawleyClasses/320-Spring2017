@@ -25,10 +25,13 @@
 ## Week 2
 
 ### Tuesday 1/31
-* [Agile Development](https://www.atlassian.com/agile/development)
-* [The Agile Team](https://www.atlassian.com/agile/teams) (read all subsections)
+* [Genesee Country Village & Museum Website](http://gcv.org)
+* [NPR: Interactive Games Make Museums a Place to Play](http://www.npr.org/templates/story/story.php?storyId=99244253)
+* [A Winning Strategy: Students invent board games that tap into Inca culture, history](http://newsroom.ucla.edu/stories/it-s-a-winning-strategy-students-271697)
 
 ### Thursday 2/2
+* [Agile Development](https://www.atlassian.com/agile/development)
+* [The Agile Team](https://www.atlassian.com/agile/teams) (read all subsections)
 * [Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development)
 * [GitHub boosts collaboration with project management and code review tools](http://thenextweb.com/apps/2016/09/15/github-gives-collaboration-a-boost-with-project-management-and-code-review-tools/)
 

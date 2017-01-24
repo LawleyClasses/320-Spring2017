@@ -46,7 +46,7 @@ Playtests will take place on Tuesdays; by Thursday the team should have written 
 
 ### Project Deliverables
 
-*  **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning and production process for each project. (5% per project)
+* **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning and production process for each project. (5% per project)
 * **[The Prototype](guidelines-rubics/prototype.md)** - I do not expect that you will succeed in making a great game. I do expect that your rules and mechanics will be clear, and that the game be functional and playable. (10% per project)
 * **[One Page Design Summary](guidelines-rubrics/one-page-design.md)** - Your group will create and present a one-page design summary document that encapsulates both the look and feel of your game and its basic functionality. (5% per project)
 * **[Post Mortem Writeup](guidelines-rubrics/post-mortem.md)** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? (5% per project)
@@ -61,8 +61,8 @@ Because class time will be used not just for group work, but also for me to talk
 | ---- | --- | ----- | ----- | -------- |
 | 1    | 1/24 | 0 | Overvew & Expectations, Slack, Github | [Tuesday Readings](readings.md#tuesday-124) |
 |      | 1/26 | Start Cycle 1  | Teams and Roles, Planning, Documentation | [Thursday Readings](readings.md#thursday-126) |
-| 2    | 1/31 | 1 | Production Processes, GCVM Presentation | [Tuesday Readings](readings.md#tuesday-131) |
-|      | 2/2  | 1 | Production Tools | [Thursday Readings](readings.md#thursday-22) |
+| 2    | 1/31 | 1 |  GCVM Presentation | [Tuesday Readings](readings.md#tuesday-131) |
+|      | 2/2  | 1 | Production Processes & Tools | [Thursday Readings](readings.md#thursday-22) |
 | 3    | 2/7  | 1 | | |
 |      | 2/9  | 1 | | |
 | 4    | 2/14 | 1 | | |
@@ -79,7 +79,7 @@ Because class time will be used not just for group work, but also for me to talk
 | 9    | 3/28 | 2 | | |
 |      | 3/30 | 2 | | |
 | 10   | 4/4  | 2 | | |
-|      | 4/6  |End Cycle 2 | Presentations | |
+|      | 4/6  | End Cycle 2 | Presentations | |
 | 11   | 4/11 | Start Cycle 3 | | |
 |      | 4/13 | 3 | | |
 | 12   | 4/18 | 3 | | |
@@ -97,6 +97,7 @@ Because class time will be used not just for group work, but also for me to talk
 ### Important RIT Deadlines
 - Last day of add/drop is 30 January 2017.
 - Last day to withdraw with a grade of “W” is 21 April 2017.
+- You have one semester after a class ends to challenge your final grade.
 
 ### Communication
 Any updates to assignments or the syllabus will be posted in Github and automatically announced in Slack. Announcements (such as class cancellations) will be posted in Slack. This means you should regularly check Slack, and consider setting up notifications for the announcements channel. I check both email and Slack frequently, and will try to always respond within 24 hours (the exception to this is when I’m traveling, for which I’ll give you advance notice). You will get a faster response using Slack, with the bonus that other people in the class can help answer questions, as well. Please send mail to me using your RIT account, and include the course number (110) in your subject line—that will significantly improve my response time!
