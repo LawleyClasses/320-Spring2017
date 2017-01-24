@@ -20,6 +20,8 @@ MyCourses will *only* be used for grading and for distributing copyrighted readi
 ## Course Organization
 The course will be organized into three project cycles (a 4.5-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. Groups will stay the same throughout the semester, but the requirements and constraints for each game cycle will change. 
 
+All three of your games will be based in some way on the [Genesee Country Village & Museum](http://gcv.org), a local historical site that [RIT has recently entered into a partnership with](https://www.rit.edu/news/story.php?id=56642). We will have representatives from the site visit class in week 2, and they will also provide feedback on your games. I will be arranging a field trip for the class to visit the site, as well. 
+
 ## Grading
 Your final grade will be based on your three game projects (25% per project), peer evaluations (5% per project), and your overall participation in both in-class discussions and Slack) (10% overall).
 
