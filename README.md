@@ -18,7 +18,7 @@ All course materials will be distributed via Github, and you will also be using 
 MyCourses will *only* be used for grading and for distributing copyrighted readings. There will be links in myCourses pointing you back to this Github repository and to our [class Slack](https://lawleygdd2.slack.com). 
 
 ## Course Organization
-The course will be organized into three project cycles (a 4.5-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. You will work in a small group (3-4 people) for the analog game, and a larger group (5-6 people) for the digital games. 
+The course will be organized into three project cycles (a 4.5-week analog game cycle, and two 5-week digital game cycles). In each cycle you will be working with a group to develop a game. Groups will stay the same throughout the semester, but the requirements and constraints for each game cycle will change.  
 
 All three of your games will be based in some way on the [Genesee Country Village & Museum](http://gcv.org), a local historical site that [RIT has recently entered into a partnership with](https://www.rit.edu/news/story.php?id=56642). We will have representatives from the site visit class in week 2, and they will also provide feedback on your games. I will be arranging a field trip for the class to visit the site, as well. 
 
