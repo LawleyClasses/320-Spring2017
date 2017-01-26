@@ -11,10 +11,9 @@ Here's the scoring sheet I'll use for evaluating your document:
 | Description | Max Points | 
 | --- | --- |
 | Game title/1-line description | 1
-| Genre | 1
-| Team name and members | 1
-| Roles and responsiblities | 1
-| Mechanics, rules, win condition | 4
+| Genre/platform | 1
+| Team name, members, roles & responsiblities | 2
+| Description & key features  | 4
 | Concept art / mockups | 2
 
 
