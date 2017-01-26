@@ -1,3 +1,3 @@
-# Lawley GDD2: Peer Evaluations
+# Lawley GDD2: Post-Mortem
 
-At the end of each project cycle, I will distribute a peer evaluation for you to complete for each of your team members, and a self evaluation for you to complete for yourself. 
+At the end of each project cycle, your group will do a post-mortem of the design and development process, identifying areas in which you felt the project went well, and areas where it didn't. 
