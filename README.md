@@ -64,7 +64,7 @@ Because class time will be used not just for group work, but also for me to talk
 | 1    | 1/24 | 0 | Overvew & Expectations, Slack, Github | Skill Assessment | [Communication Tools](readings.md#communication-tools) |
 |      | 1/26 | Start Cycle 1  | Teams and Roles, Planning, Documentation | | [Teams](readings.md#teams) & [Planning/Documenation](readings.md#planning-documentation)|
 | 2    | 1/31 | 1 |  GCVM Presentation | | [Museum Games](readings.md#museum-games) |
-|      | 2/2  | 1 | Production Processes & Tools | Planning Document | [Prototyping Tools](readings.md#prototyping-tools |
+|      | 2/2  | 1 | Production Processes & Tools | Planning Document | [Prototyping Tools](readings.md#prototyping-tools) |
 | 3    | 2/7  | 1 | | | |
 |      | 2/9  | 1 | Playtest 1 | | |
 | 4    | 2/14 | 1 | | | |
