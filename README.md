@@ -71,7 +71,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 2/16 | 1 | Playtest 2 | | |
 | 5    | 2/21 | 1 | | | |
 |      | 2/23 | 1 | Presentations | Prototype, 1-Page Summary | |
-|      | 2/26 | 1 | | Post-Mortem, Peer Eval | |
+|      | 2/26 | 1 | | Peer Eval | |
 | 6    | 2/28 | Start Cycle 2 |  | | |
 |      | 3/2  | 2 | | | |
 | 7    | 3/7  | 2 | | Planning Document | |
@@ -83,7 +83,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 3/30 | 2 | | | |
 | 10   | 4/4  | 2 | | | |
 |      | 4/6  | 2 | Presentations | Prototype, 1-Page Summary | |
-|      | 4/9  | 2 | | Post-Mortem, Peer Eval | |
+|      | 4/9  | 2 | | Peer Eval | |
 | 11   | 4/11 | Start Cycle 3 | | | |
 |      | 4/13 | 3 | | | |
 | 12   | 4/18 | 3 | | Planning Document| |
@@ -94,7 +94,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 5/4  | 3 | | | |
 | 15   | 5/9  | 3 | | | |
 |      | 5/11 | 3 | Presentations | Prototype, 1-Page Summary | |
-|  Finals | TBD | 3 | Class Post-Mortem | Post-Mortem, Peer Eval | |
+|  Finals | TBD | 3 | Class Post-Mortem | Peer Eval | |
 
 ## Additional Policies
 
