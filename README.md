@@ -44,15 +44,15 @@ Playtests will take place on Tuesdays; by Thursday the team should have written 
 * Week 2: First prototype developed
 * Week 3: Playtest & iterate
 * Week 4: Playtest & iterate
-* Week 5: Final tweaks and presentation of prototype, one-page design doc, and post mortem. 
+* Week 5: Final tweaks and presentation of prototype and one-page design summary 
 
 ### Project Deliverables
 
 * **[Planning Documents](guidelines-rubrics/planning-docs.md)** - You will need to create documentation to manage your planning and production process for each project. Due at start of second week in each cycle. (5% per project)
 * **[The Prototype](guidelines-rubics/prototype.md)** - I do not expect that you will succeed in making a great game. I do expect that your rules and mechanics will be clear, and that the game be functional and playable. Due at last class of cycle. (10% per project)
 * **[One Page Design Summary](guidelines-rubrics/one-page-design.md)** - Your group will create and present a one-page design summary document that encapsulates both the look and feel of your game and its basic functionality. Due at last class of cycle. (5% per project)
-* **[Post Mortem Writeup](guidelines-rubrics/post-mortem.md)** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are weaknesses? Due Sunday after cycle ends. (5% per project)
-* **[Peer Evaluation](guidelines-rubrics/peer-eval.md)** - Because this is a team-based course, it is important that you work well together. Additionally, not everyone plays well with others and there are consequences for that: a letter grade's worth. You will complete both a peer and a self evaluation at the end of each project cycle. Due Sunday after cycle ends. (5% per project)
+* **[Presentation](guidelines-rubrics/presentation.md)** - What did you learn in playtesting? What did you learn in development? What would you do differently? Does the game have potential? Is it viable? What are its weaknesses? Due at last class of cycle. (5% per project)
+* **[Peer Evaluation](guidelines-rubrics/peer-eval.md)** - Because this is a team-based course, it is important that you work well together. Additionally, not everyone plays well with others and there are consequences for that: a letter grade's worth. So that you have an opportunity learn and grow from team feedback, you will complete both a peer and a self evaluation at the end of each project cycle. Due Sunday after cycle ends. (5% per project)
 
 ## Attendance & Participation
 Because class time will be used not just for group work, but also for me to talk about key concepts and to provide your groups with ongoing feedback, attendance is critical. It is also important that you participate in group discussions in the class Slack, and that you contribute to the materials in each of your projects' Github repositories. I will be assessing this weekly. 
