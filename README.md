@@ -65,7 +65,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 1/26 | Start Cycle 1  | Teams and Roles, Planning, Documentation | | [Teams](readings.md#teams) & [Planning/Documenation](readings.md#planning-documentation)|
 | 2    | 1/31 | 1 |  GCVM Presentation | | [Museum Games](readings.md#museum-games) |
 |      | 2/2  | 1 | Production Processes & Tools | Planning Document | [Prototyping Tools](readings.md#prototyping-tools) |
-| 3    | 2/7  | 1 | | | |
+| 3    | 2/7  | 1 | | | [Agile Development](readings.md#agile-development) |
 |      | 2/9  | 1 | Playtest 1 | | |
 | 4    | 2/14 | 1 | | | |
 |      | 2/16 | 1 | Playtest 2 | | |

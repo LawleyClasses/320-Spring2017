@@ -24,8 +24,10 @@
 * [The Non-Digital Designer's Prototyping Kit](https://learn.canvas.net/courses/3/pages/level-5-dot-3-the-non-digital-designers-prototyping-kit)
 
 ## Agile Development
-* [Agile Development](https://www.atlassian.com/agile/development)
-* [The Agile Team](https://www.atlassian.com/agile/teams) (read all subsections)
+* [Lynda.com: What is Agile Project Management?](https://www.lynda.com/Business-Project-Management-tutorials/What-agile-project-management/122428/147340-4.html?org=rit.edu)
+* [Lynda.com: Overview of the Agile Life Cycle](https://www.lynda.com/Business-Project-Management-tutorials/Overview-agile-life-cycle/122428/147341-4.html?org=rit.edu)
+* [Scrum Workflow (Wikipedia)](https://en.wikipedia.org/wiki/Scrum_(software_development)#Workflow)
+* [Kanban Workflow (Wikipedia)](https://en.wikipedia.org/wiki/Kanban_(development))
 * [Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development)
 * [HacknPlan](http://hacknplan.com/)
 
