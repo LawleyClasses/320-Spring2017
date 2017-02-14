@@ -67,9 +67,9 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 2/2  | 1 | Production Processes & Tools | Planning Document | [Prototyping Tools](readings.md#prototyping-tools) |
 | 3    | 2/7  | 1 | | | [Agile Development](readings.md#agile-development) |
 |      | 2/9  | 1 | Playtest 1 | | |
-| 4    | 2/14 | 1 | | | |
+| 4    | 2/14 | 1 | Work Time | | |
 |      | 2/16 | 1 | Playtest 2 | | |
-| 5    | 2/21 | 1 | | | |
+| 5    | 2/21 | 1 | Playtest 3 | | |
 |      | 2/23 | 1 | Presentations | Prototype, 1-Page Summary | |
 |      | 2/26 | 1 | | Peer Eval | |
 | 6    | 2/28 | Start Cycle 2 |  | | |
@@ -81,7 +81,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 3/23 | 2 | | | |
 | 9    | 3/28 | 2 | Playtest 2 | | |
 |      | 3/30 | 2 | | | |
-| 10   | 4/4  | 2 | | | |
+| 10   | 4/4  | 2 | Playtest 3 | | |
 |      | 4/6  | 2 | Presentations | Prototype, 1-Page Summary | |
 |      | 4/9  | 2 | | Peer Eval | |
 | 11   | 4/11 | Start Cycle 3 | | | |
@@ -92,7 +92,7 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 4/27 | 3 | | | |
 | 14   | 5/2  | 3 | Playtest 2 | | |
 |      | 5/4  | 3 | | | |
-| 15   | 5/9  | 3 | | | |
+| 15   | 5/9  | 3 | Playtest 3 | | |
 |      | 5/11 | 3 | Presentations | Prototype, 1-Page Summary | |
 |  Finals | TBD | 3 | Class Post-Mortem | Peer Eval | |
 
