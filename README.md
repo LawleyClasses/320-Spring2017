@@ -72,7 +72,7 @@ Because class time will be used not just for group work, but also for me to talk
 | 5    | 2/21 | 1 | Playtest 3 | | |
 |      | 2/23 | 1 | Presentations | Prototype, 1-Page Summary | |
 |      | 2/26 | 1 | | Peer Eval | |
-| 6    | 2/28 | Start Cycle 2 (No class - GDC) |  | | |
+| 6    | 2/28 | Start Cycle 2 | (No class - GDC) | | |
 |      | 3/2  | 2 | Work time (No class - GDC) | | |
 | 7    | 3/7  | 2 | Git/Github Workflow | Planning Document | |
 |      | 3/9  | 2 | Paper Prototype Playtest | | |
