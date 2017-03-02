@@ -31,5 +31,6 @@
 * [Using Trello for Agile Software Development: The Complete Guide](http://buildbettersoftware.com/trello-for-software-development)
 * [HacknPlan](http://hacknplan.com/)
 
-## Git for Version Control
-* [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/What-you-should-know-before-watching-course/378045/409354-4.html?org=rit.edu) -- Not necessary if you're already comfortable with Git and Github
+## Git for Version Control 
+* [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/What-you-should-know-before-watching-course/378045/409354-4.html?org=rit.edu) 
+* [Lynda.com: GitHub for Web Designers](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu) 
