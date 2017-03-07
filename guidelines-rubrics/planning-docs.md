@@ -15,7 +15,7 @@ Here's the scoring sheet I'll use for evaluating your document:
 | Game title/1-line description | 1
 | Genre/platform | 1
 | Team name, members, roles & responsiblities | 2
-| Description & key features  | 4
+| Description, target audience, & key features  | 4
 | Concept art / mockups | 2
 
 
