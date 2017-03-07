@@ -33,4 +33,8 @@
 
 ## Git for Version Control 
 * [Lynda.com: Version Control for Everyone](https://www.lynda.com/GitHub-tutorials/What-you-should-know-before-watching-course/378045/409354-4.html?org=rit.edu) 
-* [Lynda.com: GitHub for Web Designers](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu) 
+* [Lynda.com: GitHub for Web Designers](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html?org=rit.edu)
+
+## Paper Prototyping of Digital Games<a name="paperprototypes"></a>
+* [Gamasutra: Use Paper Prototyping to Design Your Games](http://www.gamasutra.com/blogs/MarcoMignano/20160725/277766/Use_Paper_Prototyping_to_design_your_games.php) 
+* [Paper Prototyping: 5 Facts for Designing in Low-Tech](http://gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
