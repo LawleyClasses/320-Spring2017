@@ -10,7 +10,7 @@ You should also specify the platform (either computers or mobile devices, but no
 | -------- | ---- |
 | Guidelines & Contraints Provided | 7 March 2016 |
 | Planning Docs Due | 9 March 2017 |
-| First Playtest | 21 March 2017 |
+| First Playtest | 23 March 2017 |
 | Second Playtest | 28 March 2017 |
 | Third Playtest | 4 April 2017 |
 | Presentations & Deliverables Submitted | 6 April |
