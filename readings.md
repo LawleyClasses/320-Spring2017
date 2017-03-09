@@ -38,3 +38,5 @@
 ## Paper Prototyping of Digital Games<a name="paperprototypes"></a>
 * [Gamasutra: Use Paper Prototyping to Design Your Games](http://www.gamasutra.com/blogs/MarcoMignano/20160725/277766/Use_Paper_Prototyping_to_design_your_games.php) 
 * [Paper Prototyping: 5 Facts for Designing in Low-Tech](http://gamecareerguide.com/features/622/paper_prototyping_5_facts_for_.php)
+* [Google: Rapid Prototyping 1 of 3: Sketching & Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&list=PL_g8_Y7x37oSBWCdrEyELxQ_UtP_XV4Nf) - the other two videos are also really good
+* [A short example of a paper game prototype](https://www.youtube.com/watch?v=x48qOA2Z_xQ)
