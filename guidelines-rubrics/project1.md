@@ -2,7 +2,7 @@
 
 Your first project will be to design a board or a card game using the guidelines and constraints that I provide. (I will update this document with those constraints after they are presented in class.)
 
-##Key Dates
+## Key Dates
 
 | Activity | Date |
 | -------- | ---- |
