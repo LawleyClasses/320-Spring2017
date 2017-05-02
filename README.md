@@ -86,15 +86,15 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 4/9  | 2 | | Peer Eval | |
 | 11   | 4/11 | Start Cycle 3 | | | |
 |      | 4/13 | 3 | | | |
-| 12   | 4/18 | 3 | | Planning Document| |
-|      | 4/20 | 3 | | | |
-| 13   | 4/25 | 3 | Playtest 1 | | |
-|      | 4/27 | 3 | | | |
-| 14   | 5/2  | 3 | Playtest 2 | | |
-|      | 5/4  | 3 | | | |
-| 15   | 5/9  | 3 | Playtest 3 | | |
-|      | 5/11 | 3 | Presentations | Prototype, 1-Page Summary | |
-|  Finals | TBD | 3 | Class Post-Mortem | Peer Eval | |
+| 12   | 4/18 | 3 | | | |
+|      | 4/20 | 3 | | Planning Document Due | |
+| 13   | 4/25 | 3 |  | | 
+|      | 4/27 | 3 | | Playtest 1| |
+| 14   | 5/2  | 3 | | | |
+|      | 5/4  | 3 | | Playtest 2| |
+| 15   | 5/9  | 3 | | | |
+|      | 5/11 | 3 | Playtest 3  |  | |
+|  Finals | 5/18 | 3 | Presentations | Prototype, 1-Page Summary, Peer Eval | |
 
 ## Additional Policies
 
