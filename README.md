@@ -67,34 +67,34 @@ Because class time will be used not just for group work, but also for me to talk
 |      | 2/2  | 1 | Production Processes & Tools | Planning Document | [Prototyping Tools](readings.md#prototyping-tools) |
 | 3    | 2/7  | 1 | | | [Agile Development](readings.md#agile-development) |
 |      | 2/9  | 1 | Playtest 1 | | |
-| 4    | 2/14 | 1 | | | |
+| 4    | 2/14 | 1 | Work Time | | |
 |      | 2/16 | 1 | Playtest 2 | | |
-| 5    | 2/21 | 1 | | | |
+| 5    | 2/21 | 1 | Playtest 3 | | |
 |      | 2/23 | 1 | Presentations | Prototype, 1-Page Summary | |
 |      | 2/26 | 1 | | Peer Eval | |
-| 6    | 2/28 | Start Cycle 2 |  | | |
-|      | 3/2  | 2 | | | |
-| 7    | 3/7  | 2 | | Planning Document | |
-|      | 3/9  | 2 | | | |
+| 6    | 2/28 | Start Cycle 2 | (No class - GDC) | | |
+|      | 3/2  | 2 | Work time (No class - GDC) | | |
+| 7    | 3/7  | 2 | Git/Github Workflow | Planning Document | |
+|      | 3/9  | 2 | Paper Prototype Playtest | | |
 | **SPRING BREAK** | | | | | |
-| 8    | 3/21 | 2 | Playtest 1 | | |
+| 8    | 3/21 | 2 | Playtest 1 (Paper or Digital) | | |
 |      | 3/23 | 2 | | | |
-| 9    | 3/28 | 2 | Playtest 2 | | |
+| 9    | 3/28 | 2 | Playtest 2 (Digital)  | | |
 |      | 3/30 | 2 | | | |
-| 10   | 4/4  | 2 | | | |
+| 10   | 4/4  | 2 | Playtest 3 (Digital)  | | |
 |      | 4/6  | 2 | Presentations | Prototype, 1-Page Summary | |
 |      | 4/9  | 2 | | Peer Eval | |
 | 11   | 4/11 | Start Cycle 3 | | | |
 |      | 4/13 | 3 | | | |
-| 12   | 4/18 | 3 | | Planning Document| |
-|      | 4/20 | 3 | | | |
-| 13   | 4/25 | 3 | Playtest 1 | | |
-|      | 4/27 | 3 | | | |
-| 14   | 5/2  | 3 | Playtest 2 | | |
-|      | 5/4  | 3 | | | |
+| 12   | 4/18 | 3 | | | |
+|      | 4/20 | 3 | | Planning Document Due | |
+| 13   | 4/25 | 3 |  | | 
+|      | 4/27 | 3 | | Playtest 1| |
+| 14   | 5/2  | 3 | | | |
+|      | 5/4  | 3 | | Playtest 2| |
 | 15   | 5/9  | 3 | | | |
-|      | 5/11 | 3 | Presentations | Prototype, 1-Page Summary | |
-|  Finals | TBD | 3 | Class Post-Mortem | Peer Eval | |
+|      | 5/11 | 3 | Playtest 3  |  | |
+|  Finals | 5/18 | 3 | Presentations | Prototype, 1-Page Summary, Peer Eval | |
 
 ## Additional Policies
 
